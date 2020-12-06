@@ -1,0 +1,33 @@
+# Skills
+- skill: Programming languages/Scripting
+  description: Java, Python, JavaScript, PHP, Shell/Bash, Gherkin, XML, HTML, CSS
+
+- skill: Test Tools
+  description: Katalon Studio, WebdriverIO, Selenium RC/IDE,Webdriver, Cucumber, Postman, Rest Assured, Newman
+
+- skill: Frameworks
+  description: TestNG, Junit, Cucumber, Behave, Pytest, Unittest, Mocha, Spring Framework, Sprint Boot, MVC
+
+- skill: Test design patterns
+  description: Behavior drivendevelopment, Keyword drivendevelopment, Hybrid framework, Page Oriented Model (POM), Page Factories development, Behavior drivendevelopment (BDD), Test Driven development (TDD)
+
+- skill: Database
+  description: SQL, MySQL, T-SQL, PL/SQL, Oracle, SQL Server, RDS
+
+- skill: Other Tools
+  description: JIRA, Confluence, Atlassian, ChroPath, AWS CloudWatch, Kibana, Docker, JMeter, HP Quality Center (ALM), ZenHub, Bugzilla, Kiwi TCMS, Oracle VirtualBox, Vagrant Cloud
+
+- skill: Web/Application Servers
+  description: Apache Tomcat, WebSphere, JBoss, Jetty, Nginx, Redis, AMP
+
+- skill: CM/Build Tools
+  description: Maven, SVN, AWS CodeBuild, Jenkins, Bamboo, Openshift, AWS Pipeline, Git
+
+- skill: Manual testing
+  description: Test Strategies, Test Plan, Test Cases (Positive/Negative), Test Scenarios(Positive/Negative), Boundary Value Analysis, Equivalence Partitioning, Error Guessing Technique, State Transition Testing Technique, Test-Driven SEO
+
+- skill: Operating Environments
+  description: Windows, Linux, Unix
+
+
+

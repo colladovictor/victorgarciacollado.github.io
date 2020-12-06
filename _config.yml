@@ -1,0 +1,61 @@
+# Site settings
+title: "Victor Collado"
+description: "My resume created in Jekyll"
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Victor Collado"
+resume_title:                   "Lead Quality Assurance Analyst"
+resume_contact_email:           "vicrafaelgarcia@gmail.com"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "971-302-8669"
+resume_contact_address:         "Bowie, MD"
+
+resume_header_contact_info:     "Bowie, MD • 971-302-8669 • vicrafaelgarcia@gmail.com"
+display_header_contact_info:    "false"
+resume_header_intro:            "<p>Ambitious Quality Analyst with superior analytical and troubleshooting talents. Background of 8
+                                    + years of QA experience in all phases of life cycle. Adept at using both manual and automated
+                                    testing tools to troubleshoot systems. Proficient in preparing test cases, plans and scripts.
+                                    Dedicated to analyzing and resolving defects. Familiar working in the SDLC & Agile.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "yes"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        false
+resume_section_skills:          true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+#  resume_medium_url:            "https://medium.com/@youruser"
+  resume_linkedin_url:          "https://www.linkedin.com/in/victorrafaelgarciacollado/"
+  resume_github_url:            "https://github.com/victorgarciacollado/"
+  resume_twitter_url:           "https://twitter.com/VictorGCollado"
+  # resume_facebook_url:          "insert Facebook URL here"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "insert website here"
+resume_print_social_links:      false
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts
